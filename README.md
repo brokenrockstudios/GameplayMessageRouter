@@ -1,2 +1,2 @@
-# GameplayMessageProcessor
-A community plugin version of GameplayMessageProcessor from the Epic's Lyra Sample project
+# GameplayMessageSystem
+A community plugin version of GameplayMessage Processor from the Epic's Lyra Sample project

@@ -1,3 +1,14 @@
+# Important Notice Regarding Unreal Engine Related Code
+
+This project contains code that is derived from or intended for use with Unreal Engine, which is provided by Epic Games, Inc. under the Unreal Engine End User License Agreement (EULA).  
+By using or distributing this code, you agree to comply with the terms of the Unreal Engine EULA, available at:  
+- Unreal Engine EULA: https://www.unrealengine.com/eula  
+- Unreal Engine Content EULA: https://www.unrealengine.com/eula/content
+
+This software is **not affiliated with, endorsed by, or sponsored by Epic Games, Inc.**  
+
+---
+
 MIT License
 
 Copyright (c) 2025 Broken Rock Studios

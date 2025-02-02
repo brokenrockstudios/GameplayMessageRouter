@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GameplayMessageSystem",
+	"Description": "A community plugin for GameplayMessage Processor from the Lyra Sample Project",
+	"Category": "Other",
+	"CreatedBy": "Epic Games, Inc. and Broken Rock Studios",
+	"ModifiedBy": "Broken Rock Studios",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/brokenrockstudios/GameplayMessageSystem",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GameplayMessageSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

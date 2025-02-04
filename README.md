@@ -1,13 +1,13 @@
-# GameplayMessageSystem
+# GameplayMessageRouter
 A community plugin version of GameplayMessage Processor from the Epic's Lyra Sample project
 
-The GameplayMessageSystem acts as a centralized hub for routing, processing, and dispatching gameplay
+The GameplayMessageRouter acts as a centralized hub for routing, processing, and dispatching gameplay
 messages. It decouples message senders from listeners, making your game's event communication more
 modular, scalable, and easier to maintain
 
 ## 📖 Overview
 
-The GameplayMessageSystem is designed to streamline communication between disparate gameplay components by:
+The GameplayMessageRouter is designed to streamline communication between disparate gameplay components by:
  * Centralizing message routing
    * All gameplay messages, events, state changes, or notifications are managed by a single router
  * Decoupling components

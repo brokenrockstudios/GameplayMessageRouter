@@ -69,8 +69,8 @@ This project is a fork of Epic Games' codebase and is therefor subject to the Un
 Any portions of the code that are not covered by Epic's EULA are licensed under the MIT License, as specified in the LICENSE file.
 
 
-# Notable changes from original
-Note: Not a fully exhaustive list.
+# 🔄Notable changes from original
+(Not an exhaustive list)
 
 * Added GameplayMessageProcessor
 

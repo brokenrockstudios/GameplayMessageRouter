@@ -29,9 +29,10 @@ TODO pictures
 
 Broadcast a message
 ```cpp
-
 FYourStructMessage Message;
+// Message.SomeValue = SomeOtherValue;
 ...populate message
+
 UGameplayMessageSubsystem& MessageSystem = UGameplayMessageSubsystem::Get(this);
 MessageSystem.BroadcastMessage(SomeGameplayTag, Message);
 ```

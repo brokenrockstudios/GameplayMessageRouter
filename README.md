@@ -1,3 +1,8 @@
+Note: This will plugin likely be archived soon because UE added an official version to UE5.7 core so it's now an engine wide.
+
+
+
+
 # GameplayMessageRouter
 A community plugin version of GameplayMessage Processor from the Epic's Lyra Sample project
 
